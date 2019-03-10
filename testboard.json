@@ -1,0 +1,14 @@
+{
+  "Id": "DashboardConfiguration-Users-1",
+  "IncludedProjectGroupIds": [],
+  "IncludedProjectIds": [
+    "Projects-1"
+  ],
+  "IncludedEnvironmentIds": [],
+  "IncludedTenantIds": [],
+  "ProjectLimit": null,
+  "IncludedTenantTags": [],
+  "Links": {
+    "Self": "/api/dashboardconfiguration"
+  }
+}
